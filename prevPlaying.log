@@ -1,0 +1,7 @@
+
+[5:25:25] main: 程序启动
+[5:25:25] PrepareSounds: 正在加载音效
+[5:25:26] images::LoadImages: 加载一些图片...
+[5:25:26] ReadEntityData: 开始读取实体数据...
+[5:25:26] InGame: 进入游戏
+[5:28:45] Determination: 玩家死亡
